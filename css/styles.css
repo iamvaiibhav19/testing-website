@@ -265,7 +265,7 @@ a:hover {
   .skillrowImage1 {
     width: 300%;
     border: 1px solid red;
-    margin-bottom: 20px;
+    margin-bottom: 35px;
   }
 
   #my_skills {
@@ -290,12 +290,12 @@ a:hover {
   #hobbies {
     position: relative;
     /* right: 10px; */
-    bottom: 220px;
+    bottom: 245px;
     /* margin-bottom: 30px; */
   }
 
   #my_hobbies {
-    margin-top: 70px;
+    margin-top: 90px;
   }
 
   #details {
@@ -320,6 +320,10 @@ a:hover {
   }
 
   .movedown {
-    margin-top: 20rem;
+    margin-top: 23rem;
+  }
+
+  .bottom-container {
+    margin-top: 50px;
   }
 }
